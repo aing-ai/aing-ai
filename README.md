@@ -114,6 +114,11 @@ Every satoshi, wei, or token helps us build this open-source vision.
 
 If you'd like to donate via another crypto (BCH, LTC, SOL, etc.), contact us directly at `aing.movement@pm.me`.
 
+## 🔍 Learn More
+
+- [ETHICS.md](./ETHICS.md) – AING.ai Ethics Framework
+- [LICENSE.md](./LICENSE.md) – AING.ai Custom License v1.0
+
 ---
 
 Created with purpose by [Sven Budisa](mailto:sven.budisa@pm.me)  
