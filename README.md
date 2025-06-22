@@ -115,6 +115,22 @@ Every satoshi, wei, or token helps us build this open-source vision.
 If you'd like to donate via another crypto (BCH, LTC, SOL, etc.), contact us directly at `aing.movement@pm.me`.
 💡 Note: Cryptocurrency addresses are shared for transparency. Always verify them via official channels or GitHub repository before donating.
 
+## 🚀 Join the Mission
+
+We are actively looking for:
+
+- 🧠 Ethical AI Developers
+- 🌍 Visionary Collaborators
+- 💸 Purpose-Driven Investors
+
+AING.ai is a peaceful bridge toward Kardashev Type I civilization.  
+Want to co-create the future?  
+
+
+📬 Contact: [aing.movement@pm.me](mailto:aing.movement@pm.me)  
+🌐 Site: [https://aing-ai.github.io](https://aing-ai.github.io)
+
+
 
 ## 🔍 Learn More
 
