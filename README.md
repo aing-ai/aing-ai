@@ -113,6 +113,8 @@ Every satoshi, wei, or token helps us build this open-source vision.
   `bc1qmp0tm3p6f7a2u8dcymkaygaj80sy32346n30f6`
 
 If you'd like to donate via another crypto (BCH, LTC, SOL, etc.), contact us directly at `aing.movement@pm.me`.
+💡 Note: Cryptocurrency addresses are shared for transparency. Always verify them via official channels or GitHub repository before donating.
+
 
 ## 🔍 Learn More
 
