@@ -2,6 +2,28 @@
 
 **AING.ai** is not just a platform — it's a rebellion, a vision, and a lifeline. Conceived as an antidote to exploitative systems and mindless AI proliferation, AING seeks to unify ethical technology, sustainable income, and human evolution.
 
+> ⚠️ **Security Notice – Identity Alert**
+>
+> We have detected an identity theft attempt involving unauthorized emails.
+>
+> ❌ Do NOT trust or engage with the following emails:
+> - `aing.ai@proton.me`
+> - `aing.collective@pm.me`
+>
+> These addresses are not affiliated with the AING.ai project and were created without permission.
+>
+> ✅ Official contacts are:
+> - `aing.movement@pm.me` (Primary)
+> - `sven.budisa@pm.me` (Founder Contact)
+
+Please verify all communication through this GitHub page or our official channels. AING is a community of integrity. Stay sharp.
+
+---
+
+## 🔮 About AING.ai
+
+**AING.ai** exists to build ethical, regenerative, AI-empowered systems that serve humanity — not control it.
+
 ---
 
 ## 🌍 Vision
@@ -63,12 +85,38 @@ Every child is a born genius. The question is — have you ever truly *listened*
 
 **This project is lovingly dedicated to my daughters, Katarina and Veronika.**
 
----
-
 > "We do not inherit the Earth from our ancestors — we borrow it from our children."
 
 ---
 
-Created with purpose by **Sven Budisa**  
+## 📬 Contact
+
+If you want to collaborate, ask questions, or verify AING.ai communication channels, please use the following official emails:
+
+- 🌐 Primary: [aing.movement@pm.me](mailto:aing.movement@pm.me)  
+- 👤 Founder: [sven.budisa@pm.me](mailto:sven.budisa@pm.me)
+
+All other emails are considered unauthorized or fraudulent unless confirmed via GitHub or project links.
+
+> ⚖️ All communications claiming affiliation with AING.ai must be verifiable through official emails or this GitHub page. Any other use of the AING name or domain without permission will be considered unauthorized and subject to public disclosure.
+
+---
+
+## 💰 Donate to Support AING.ai
+
+Every satoshi, wei, or token helps us build this open-source vision.
+
+- **Ethereum / USDT (ERC-20):**  
+  `0xa3a2af7ca6606d6d230b68fc288ec857e3fbdc5d`
+
+- **Bitcoin (BTC):**  
+  `bc1qmp0tm3p6f7a2u8dcymkaygaj80sy32346n30f6`
+
+If you'd like to donate via another crypto (BCH, LTC, SOL, etc.), contact us directly at `aing.movement@pm.me`.
+
+---
+
+Created with purpose by [Sven Budisa](mailto:sven.budisa@pm.me)  
 GitHub: [aing-ai](https://github.com/aing-ai)  
-Website: [aing.ai](https://aing.ai)
+Website: [https://aing.ai](https://aing.ai)
+
